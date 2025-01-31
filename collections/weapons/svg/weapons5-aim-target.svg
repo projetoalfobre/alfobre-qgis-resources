@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<circle style="fill:#FFAC00;" cx="256.002" cy="255.909" r="206.553"/>
+<circle style="fill:#DB6D00;" cx="256.002" cy="255.909" r="135.007"/>
+<circle style="fill:#C2C2C2;" cx="256.002" cy="255.909" r="63.468"/>
+<path style="fill:#FFD68B;" d="M256,49.352c-114.076,0-206.554,92.478-206.554,206.554S141.924,462.461,256,462.461V49.352z"/>
+<path style="fill:#FFAC00;" d="M256,120.896c-74.565,0-135.011,60.447-135.011,135.011S181.436,390.917,256,390.917V120.896z"/>
+<path style="fill:#EAEAEA;" d="M256,192.438c-35.052,0-63.468,28.416-63.468,63.468s28.416,63.468,63.468,63.468V192.438z"/>
+<polygon style="fill:#424242;" points="511.907,240.235 271.672,240.235 271.672,0 240.328,0 240.328,240.235 0.094,240.235 
+	0.094,271.578 240.328,271.578 240.328,512 271.672,512 271.672,271.578 511.907,271.578 "/>
+</svg>

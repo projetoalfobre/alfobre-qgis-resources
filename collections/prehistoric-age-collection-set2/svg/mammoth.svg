@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 460 460" xml:space="preserve">
+<g id="XMLID_1153_">
+	<polygon id="XMLID_1154_" style="fill:#3C261B;" points="320,415 264,415 264,282.5 320,295 	"/>
+	<rect id="XMLID_1155_" x="88" y="305" style="fill:#AF2B12;" width="56" height="110"/>
+	<path id="XMLID_1156_" style="fill:#DA521B;" d="M176,93.46L60.23,128.67C25.37,139.28,0,171.67,0,210v87.5C0,313.403,0,325,0,325
+		v90h56v-90h120l20-115.77L176,93.46z"/>
+	<path id="XMLID_1157_" style="fill:#AF2B12;" d="M409.98,111.33c0-0.44,0.02-0.88,0.02-1.33c0-35.9-29.1-65-65-65
+		c-6.59,0-12.95,0.98-18.94,2.81L176,93.46V415h56v-90l88-30v-70L409.98,111.33z"/>
+	<rect id="XMLID_1158_" x="116" y="150" style="fill:#AF2B12;" width="30" height="30"/>
+	<rect id="XMLID_1159_" x="58" y="210" style="fill:#AF2B12;" width="30" height="30"/>
+	<rect id="XMLID_1160_" x="206" y="240" style="fill:#DA521B;" width="30" height="30"/>
+	<path id="XMLID_1161_" style="fill:#3C261B;" d="M280.898,110c-16.5,0-30,13.5-30,30v31.96L320,195l20-42.5L320,110H280.898z"/>
+	<path id="XMLID_1162_" style="fill:#DA521B;" d="M410,110h-90v115h59.98L380,325c0,8.27-6.73,15-15,15s-15-6.73-15-15v-30h-30v30
+		c0,24.81,20.19,45,45,45s45-20.19,45-45l-0.01-100H410V110z"/>
+	<path id="XMLID_1163_" style="fill:#FFC052;" d="M405,300c-30.327,0-55-24.673-55-55v-20h30v20c0,13.785,11.215,25,25,25
+		s25-11.215,25-25v-90h30v90C460,275.327,435.327,300,405,300z"/>
+</g>
+</svg>

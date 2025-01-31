@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<g>
+	<path style="fill:#424242;" d="M261.224,89.719h-31.347v-52.3c0-3.348-2.723-6.072-6.072-6.072h-96.409
+		c-3.348,0-6.072,2.723-6.072,6.072v52.3H89.978v-52.3C89.979,16.785,106.765,0,127.397,0h96.409
+		c20.633,0,37.419,16.785,37.419,37.419V89.719z"/>
+	<path style="fill:#424242;" d="M363.704,512h-96.409c-20.633,0-37.418-16.785-37.418-37.419v-52.3h31.347v52.3
+		c0,3.348,2.723,6.072,6.072,6.072h96.409c3.348,0,6.072-2.723,6.072-6.072v-52.3h31.347v52.3
+		C401.122,495.215,384.336,512,363.704,512z"/>
+</g>
+<g>
+	<rect x="199.983" y="58.372" style="fill:#EE2712;" width="91.126" height="395.254"/>
+	<rect x="339.884" y="58.372" style="fill:#EE2712;" width="91.126" height="395.254"/>
+</g>
+<rect x="339.884" y="58.372" style="fill:#FF7565;" width="45.563" height="395.254"/>
+<rect x="60.092" y="58.372" style="fill:#EE2712;" width="91.126" height="395.254"/>
+<g>
+	<rect x="60.092" y="58.372" style="fill:#FF7565;" width="45.563" height="395.254"/>
+	<rect x="199.983" y="58.372" style="fill:#FF7565;" width="45.563" height="395.254"/>
+</g>
+<g>
+	<rect x="40.908" y="141.009" style="fill:#424242;" width="330.836" height="31.347"/>
+	<rect x="40.908" y="339.916" style="fill:#424242;" width="409.276" height="31.347"/>
+</g>
+<rect x="272.394" y="119.923" style="fill:#C2C2C2;" width="198.698" height="136.213"/>
+<rect x="272.394" y="119.923" style="fill:#EAEAEA;" width="99.349" height="136.213"/>
+<rect x="314.169" y="172.356" style="fill:#424242;" width="115.158" height="31.347"/>
+</svg>

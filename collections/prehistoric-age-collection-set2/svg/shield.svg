@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 460 460" xml:space="preserve">
+<g id="XMLID_14_">
+	<path id="XMLID_15_" style="fill:#66DBBF;" d="M230,0c127.03,0,230,102.97,230,230S357.03,460,230,460l-50-230L230,0z"/>
+	<path id="XMLID_16_" style="fill:#51816D;" d="M230,30c110.46,0,200,89.54,200,200s-89.54,200-200,200l-30-200L230,30z"/>
+	<path id="XMLID_17_" style="fill:#A3E9D9;" d="M230,460C102.97,460,0,357.03,0,230S102.97,0,230,0V460z"/>
+	<path id="XMLID_18_" style="fill:#5CAE96;" d="M230,30v400c-110.46,0-200-89.54-200-200S119.54,30,230,30z"/>
+	<path id="XMLID_19_" style="fill:#5CAE96;" d="M230,155l-30,75l30,75c41.355,0,75-33.645,75-75S271.355,155,230,155z"/>
+	<path id="XMLID_20_" style="fill:#66DBBF;" d="M155,230c0,41.355,33.645,75,75,75V155C188.645,155,155,188.645,155,230z"/>
+	<path id="XMLID_21_" style="fill:#A3E9D9;" d="M230,185l-30,45l30,45c24.853,0,45-20.147,45-45S254.853,185,230,185z"/>
+	<path id="XMLID_22_" style="fill:#FFEBCF;" d="M185,230c0,24.853,20.147,45,45,45v-90C205.147,185,185,205.147,185,230z"/>
+	<path id="XMLID_23_" style="fill:#A3E9D9;" d="M230,60l-10,20l10,20c11.046,0,20-8.954,20-20S241.046,60,230,60z"/>
+	<path id="XMLID_24_" style="fill:#FFEBCF;" d="M210,80c0,11.046,8.954,20,20,20V60C218.954,60,210,68.954,210,80z"/>
+	<circle id="XMLID_25_" style="fill:#FFEBCF;" cx="155" cy="100.096" r="20"/>
+	<circle id="XMLID_26_" style="fill:#FFEBCF;" cx="100.096" cy="155" r="20"/>
+	<circle id="XMLID_27_" style="fill:#FFEBCF;" cx="80" cy="230" r="20"/>
+	<circle id="XMLID_28_" style="fill:#FFEBCF;" cx="100.096" cy="305" r="20"/>
+	<circle id="XMLID_29_" style="fill:#FFEBCF;" cx="155" cy="359.904" r="20"/>
+	<path id="XMLID_30_" style="fill:#A3E9D9;" d="M230,360l-10,20l10,20c11.046,0,20-8.954,20-20S241.046,360,230,360z"/>
+	<path id="XMLID_31_" style="fill:#FFEBCF;" d="M210,380c0,11.046,8.954,20,20,20v-40C218.954,360,210,368.954,210,380z"/>
+	<circle id="XMLID_71_" style="fill:#A3E9D9;" cx="305" cy="359.904" r="20"/>
+	<circle id="XMLID_85_" style="fill:#A3E9D9;" cx="359.904" cy="305" r="20"/>
+	<circle id="XMLID_86_" style="fill:#A3E9D9;" cx="380" cy="230" r="20"/>
+	<circle id="XMLID_87_" style="fill:#A3E9D9;" cx="359.904" cy="155" r="20"/>
+	<circle id="XMLID_88_" style="fill:#A3E9D9;" cx="305" cy="100.096" r="20"/>
+</g>
+</svg>

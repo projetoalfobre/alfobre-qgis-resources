@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<polyline style="fill:#707070;" points="256.001,258.85 139.334,192.856 182.452,0 329.55,0 372.668,192.856 256.001,258.85 "/>
+<polygon style="fill:#FF7565;" points="182.452,0 139.334,192.856 256.001,258.85 329.55,0 "/>
+<polygon style="fill:#EE2712;" points="329.55,0 256.001,258.85 372.669,192.856 "/>
+<circle style="fill:#FFAC00;" cx="256.001" cy="375.453" r="136.547"/>
+<path style="fill:#FFD68B;" d="M256.001,238.902c-75.413,0-136.549,61.135-136.549,136.549S180.588,512,256.001,512V238.902z"/>
+<path style="fill:#DB6D00;" d="M256.001,463.018c48.285,0,87.568-39.282,87.568-87.568s-39.283-87.568-87.568-87.568
+	s-87.568,39.282-87.568,87.568S207.716,463.018,256.001,463.018z"/>
+<path style="fill:#FFAC00;" d="M256.001,287.883c-48.285,0-87.568,39.282-87.568,87.568c0,48.285,39.282,87.568,87.568,87.568
+	V287.883z"/>
+</svg>
