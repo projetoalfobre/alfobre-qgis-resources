@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<path style="fill:#B3B3B3;" d="M512,378.255V204.387c0-70.692-57.308-128-128-128l0,0c-70.692,0-128,57.308-128,128l-56.182,106.925
+	l56.182,124.302H512v-27.471L512,378.255L512,378.255z"/>
+<path style="fill:#999999;" d="M128,76.387L128,76.387c-70.692,0-128,57.307-128,128v231.226h256.001V204.387
+	C256.001,133.694,198.693,76.387,128,76.387z"/>
+<g>
+	<rect x="294.938" y="194.318" style="fill:#E6E6E6;" width="178.12" height="17.932"/>
+	<rect x="294.938" y="277.807" style="fill:#E6E6E6;" width="178.12" height="17.932"/>
+	<rect x="362.588" y="236.062" style="fill:#E6E6E6;" width="110.47" height="17.932"/>
+	<rect x="294.938" y="236.062" style="fill:#E6E6E6;" width="55.7" height="17.932"/>
+	<rect x="426.747" y="319.54" style="fill:#E6E6E6;" width="46.312" height="17.932"/>
+	<rect x="294.938" y="319.54" style="fill:#E6E6E6;" width="119.855" height="17.932"/>
+	<rect x="294.938" y="361.285" style="fill:#E6E6E6;" width="178.12" height="17.932"/>
+</g>
+<g>
+	<rect x="96.412" y="194.318" style="fill:#CCCCCC;" width="120.656" height="17.932"/>
+	<rect x="38.94" y="194.318" style="fill:#CCCCCC;" width="45.51" height="17.932"/>
+	<rect x="152.191" y="277.807" style="fill:#CCCCCC;" width="64.864" height="17.932"/>
+	<rect x="38.94" y="277.807" style="fill:#CCCCCC;" width="101.301" height="17.932"/>
+	<rect x="38.94" y="236.062" style="fill:#CCCCCC;" width="178.12" height="17.932"/>
+	<rect x="38.94" y="319.54" style="fill:#CCCCCC;" width="178.12" height="17.932"/>
+	<rect x="114.738" y="361.285" style="fill:#CCCCCC;" width="102.318" height="17.932"/>
+	<rect x="38.94" y="361.285" style="fill:#CCCCCC;" width="63.848" height="17.932"/>
+</g>
+<polygon style="fill:#E6E6E6;" points="375.035,181.17 392.967,181.17 392.967,149.491 408.506,149.491 408.506,131.56 
+	392.967,131.56 392.967,111.835 375.035,111.835 375.035,131.56 359.493,131.56 359.493,149.491 375.035,149.491 "/>
+<polygon style="fill:#CCCCCC;" points="119.035,181.17 136.966,181.17 136.966,149.491 152.507,149.491 152.507,131.56 
+	136.966,131.56 136.966,111.835 119.035,111.835 119.035,131.56 103.494,131.56 103.494,149.491 119.035,149.491 "/>
+</svg>

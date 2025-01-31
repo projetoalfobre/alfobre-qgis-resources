@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 512 512"  xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#000000;}
+]]>
+</style>
+<g>
+	<polygon class="st0" points="272,12.813 361.328,47.484 272,92.813 	"/>
+	<rect x="240" y="12.813" class="st0" width="32" height="139.641"/>
+	<path class="st0" d="M505.297,343.969C478.969,230.594,377.375,146.078,256,146.078S33.031,230.594,6.703,343.969H505.297z"/>
+	<path class="st0" d="M1.313,375.969C0.438,384.547,0,393.266,0,402.078v97.109h200v-37.875c0-30.938,25.063-56,56-56
+		s56,25.063,56,56v37.875h200v-97.109c0-8.813-0.438-17.531-1.313-26.109H1.313z"/>
+</g>
+</svg>

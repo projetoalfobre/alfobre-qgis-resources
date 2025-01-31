@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 512 512"  xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#000000;}
+]]>
+</style>
+<g>
+	<path class="st0" d="M256,0l-9,5.031L8.734,138.266V512h206.672h14.766h51.672h14.766h206.656V138.266L256,0z M466.359,475.094
+		H318.75V355.547H193.266v119.547H45.641V159.906L256,42.281l210.359,117.625V475.094z"/>
+	<rect x="104.156" y="274.234" class="st0" width="36.906" height="36.906"/>
+	<rect x="233.328" y="274.234" class="st0" width="36.906" height="36.906"/>
+	<rect x="364.359" y="274.234" class="st0" width="36.906" height="36.906"/>
+	<rect x="104.156" y="189.344" class="st0" width="36.906" height="36.906"/>
+	<rect x="233.328" y="189.344" class="st0" width="36.906" height="36.906"/>
+	<rect x="364.359" y="189.344" class="st0" width="36.906" height="36.906"/>
+	<rect x="104.156" y="359.125" class="st0" width="36.906" height="36.906"/>
+	<rect x="364.359" y="359.125" class="st0" width="36.906" height="36.906"/>
+</g>
+</svg>

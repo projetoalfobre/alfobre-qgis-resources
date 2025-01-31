@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 512 512"  xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#000000;}
+]]>
+</style>
+<g>
+	<polygon class="st0" points="139.672,59.266 108.531,140.406 403.469,140.406 372.328,59.266 	"/>
+	<polygon class="st0" points="88.297,207 57.156,288.141 454.859,288.141 423.719,207 	"/>
+	<polygon class="st0" points="48.016,374.906 12.594,512 499.406,512 464,374.906 	"/>
+	<rect x="109.953" y="231.875" class="st0" width="32.453" height="154.563"/>
+	<rect x="369.594" y="231.875" class="st0" width="32.453" height="154.563"/>
+	<rect x="144.438" y="85.844" class="st0" width="32.453" height="154.563"/>
+	<rect x="335.109" y="85.844" class="st0" width="32.453" height="154.563"/>
+	<path class="st0" d="M180.078,20.125c-15.516,2.391-2.578,23.719,14.203,22.516l2.594,26.078c0,0-44.578-1.188-44.578-31.406
+		c0-25.469,23.906-27.844,23.906-27.844L190.406,0v13.031l7.75,9.484L180.078,20.125z"/>
+	<path class="st0" d="M331.922,20.125c15.516,2.391,2.594,23.719-14.203,22.516l-2.578,26.078c0,0,44.563-1.188,44.563-31.406
+		c0-25.469-23.906-27.844-23.906-27.844L321.578,0v13.031l-7.734,9.484L331.922,20.125z"/>
+	<rect x="239.766" y="156.375" class="st0" width="32.469" height="32.438"/>
+	<rect x="192.781" y="314.578" class="st0" width="32.453" height="32.453"/>
+	<rect x="286.766" y="314.578" class="st0" width="32.453" height="32.453"/>
+</g>
+</svg>

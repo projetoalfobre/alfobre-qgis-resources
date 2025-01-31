@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512"  xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#000000;}
+</style>
+<g>
+	<rect x="187.123" y="273.774" class="st0" width="31" height="36.162"/>
+	<rect x="141.186" y="360.002" class="st0" width="31.007" height="36.169"/>
+	<rect x="291.243" y="273.774" class="st0" width="31.006" height="36.162"/>
+	<rect x="339.807" y="360.002" class="st0" width="31.006" height="36.169"/>
+	<rect x="239.182" y="360.002" class="st0" width="31" height="36.169"/>
+	<rect x="239.182" y="187.169" class="st0" width="31" height="36.168"/>
+	<path class="st0" d="M304.849,95.459V34.136h-97.698v61.323L0,365.641l50.807,34.374l16.411-21.53v99.379h377.563v-99.379
+		l16.412,21.53L512,365.641L304.849,95.459z M63.153,375.381L49.668,393.06l22.67-29.74L63.153,375.381z M430.706,463.78H81.301
+		V351.572l11.684-15.322h326.03l11.691,15.33V463.78z M354.538,251.675l60.575,79.457H96.887l60.589-79.464v0.007H354.538z
+		 M161.37,246.548L256,122.421l94.637,124.127H161.37z M464.326,380.892L256,107.648L47.674,380.892l-27.412-18.54l200.964-262.116
+		V48.219h69.546v52.024l0.926,1.204l200.045,260.906L464.326,380.892z"/>
+</g>
+</svg>
