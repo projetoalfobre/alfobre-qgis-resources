@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:docname="palace_fill.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.37"
+     inkscape:cx="50"
+     inkscape:cy="49.932157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 49.125, 17.852 41.818, 19.173 38.175, 21.251 34.983, 24.046 32.363, 27.452 30.416, 31.338 29.217, 35.555 29.008, 42.546 29.008, 52.546 29.008, 60.910 19.008, 60.910 17.273, 60.910 17.273, 50.910 17.273, 49.798 12.603, 40.956 11.405, 38.687 6.735, 47.530 5.537, 49.798 5.537, 59.798 5.537, 60.910 5.537, 70.910 5.537, 80.910 5.537, 90.910 5.537, 94.547 15.537, 94.547 17.273, 94.547 27.273, 94.547 29.008, 94.547 37.396, 94.547 45.784, 94.547 54.171, 94.547 62.559, 94.547 70.947, 94.547 80.947, 94.547 82.719, 94.547 92.719, 94.547 94.491, 94.547 94.491, 84.547 94.491, 74.547 94.491, 64.547 94.491, 60.910 94.491, 50.910 94.491, 49.798 89.810, 40.962 88.605, 38.687 83.924, 47.524 82.719, 49.798 82.719, 59.798 82.719, 60.910 72.719, 60.910 70.947, 60.910 70.947, 50.910 70.947, 42.546 70.542, 35.555 69.343, 31.338 67.396, 27.452 64.776, 24.046 61.584, 21.251 57.942, 19.173 50.641, 17.852 "
+         id="path1"
+         style="stroke-linecap:round;fill:#000000" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 50.641, 17.852 49.885, 17.687 49.125, 17.852 49.125, 7.852 49.125, 6.237 49.885, 6.072 50.641, 6.237 50.641, 16.237 50.641, 17.852 "
+         id="path2" />
+    </g>
+  </g>
+</svg>

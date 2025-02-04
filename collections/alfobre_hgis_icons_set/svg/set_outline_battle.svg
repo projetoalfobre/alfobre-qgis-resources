@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:docname="battle.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.1150235"
+     inkscape:cx="57.69482"
+     inkscape:cy="33.590894"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 36.799, 12.383 28.972, 11.698 28.287, 19.525 34.715, 27.185 41.143, 34.846 42.571, 36.548 42.748, 36.758 46.142, 40.804 49.713, 45.059 50.000, 45.401 53.284, 49.315 56.855, 53.571 60.426, 57.827 63.997, 62.083 67.568, 66.338 71.139, 70.594 74.711, 74.850 67.050, 81.278 66.199, 81.992 69.770, 86.248 77.430, 79.820 79.934, 77.719 86.362, 85.380 90.647, 90.487 93.250, 88.302 95.854, 86.118 89.426, 78.457 85.141, 73.350 92.801, 66.922 95.305, 64.822 91.734, 60.566 84.073, 66.994 83.222, 67.708 79.651, 63.452 76.080, 59.196 72.509, 54.941 68.938, 50.685 65.367, 46.429 61.796, 42.173 58.225, 37.917 57.252, 36.758 54.654, 33.662 51.083, 29.406 50.000, 28.115 43.572, 20.455 37.144, 12.794 36.799, 12.383 "
+         id="path1"
+         style="stroke-width:3.00094488;stroke-dasharray:none;stroke-linecap:round;fill:#ffffff" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 71.713, 19.525 71.028, 11.698 63.201, 12.383 56.774, 20.043 50.346, 27.703 50.000, 28.115 48.917, 29.406 45.346, 33.662 42.748, 36.758 41.775, 37.917 38.204, 42.173 34.633, 46.429 31.062, 50.685 27.491, 54.941 23.920, 59.196 20.349, 63.452 16.778, 67.708 9.117, 61.280 8.266, 60.566 4.695, 64.822 12.356, 71.250 14.859, 73.350 8.431, 81.011 4.146, 86.118 6.750, 88.302 9.353, 90.487 15.781, 82.826 20.066, 77.719 27.727, 84.147 30.230, 86.248 33.801, 81.992 26.141, 75.564 25.289, 74.850 28.861, 70.594 32.432, 66.338 36.003, 62.083 39.574, 57.827 43.145, 53.571 46.716, 49.315 50.000, 45.401 50.287, 45.059 53.858, 40.804 57.252, 36.758 57.429, 36.548 63.857, 28.887 70.285, 21.227 71.713, 19.525 "
+         id="path2"
+         style="stroke-linecap:round;fill:#ffffff" />
+    </g>
+  </g>
+</svg>

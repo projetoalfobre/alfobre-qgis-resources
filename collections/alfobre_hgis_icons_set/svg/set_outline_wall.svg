@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg1"
+   sodipodi:docname="wall.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.37"
+     inkscape:cx="50"
+     inkscape:cy="49.932157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 61.111, 94.444 51.111, 94.444 50.000, 94.444 40.000, 94.444 38.889, 94.444 28.889, 94.444 27.778, 94.444 17.778, 94.444 16.667, 94.444 6.667, 94.444 5.556, 94.444 5.556, 84.444 5.556, 74.444 5.556, 64.444 5.556, 54.444 5.556, 44.444 5.556, 38.889 5.556, 28.889 5.556, 27.778 15.556, 27.778 16.667, 27.778 16.667, 37.778 16.667, 38.889 26.667, 38.889 27.778, 38.889 27.778, 28.889 27.778, 27.778 37.778, 27.778 38.889, 27.778 38.889, 37.778 38.889, 38.889 48.889, 38.889 50.000, 38.889 50.000, 28.889 50.000, 27.778 60.000, 27.778 61.111, 27.778 61.111, 37.778 61.111, 38.889 71.111, 38.889 72.222, 38.889 72.222, 28.889 72.222, 27.778 82.222, 27.778 83.333, 27.778 83.333, 37.778 83.333, 38.889 93.333, 38.889 94.444, 38.889 94.444, 48.889 94.444, 58.889 94.444, 68.889 94.444, 78.889 94.444, 88.889 94.444, 94.444 84.444, 94.444 83.333, 94.444 73.333, 94.444 72.222, 94.444 62.222, 94.444 61.111, 94.444 "
+         id="path1"
+         style="stroke-linecap:round" />
+    </g>
+  </g>
+</svg>

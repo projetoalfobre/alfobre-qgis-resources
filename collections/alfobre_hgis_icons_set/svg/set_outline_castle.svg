@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg1"
+   sodipodi:docname="castle.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.37"
+     inkscape:cx="49.932157"
+     inkscape:cy="49.932157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 55.556, 16.667 55.556, 6.667 55.556, 5.556 45.556, 5.556 44.444, 5.556 44.444, 15.556 44.444, 16.667 38.889, 16.667 33.333, 16.667 33.333, 6.667 33.333, 5.556 23.333, 5.556 22.222, 5.556 22.222, 15.556 22.222, 16.667 22.222, 26.667 22.222, 33.333 32.222, 33.333 33.333, 33.333 33.333, 43.333 33.333, 53.333 33.333, 63.333 33.333, 66.667 26.389, 66.667 19.444, 66.667 19.444, 56.667 19.444, 55.556 12.500, 50.000 5.556, 55.556 5.556, 65.556 5.556, 66.667 5.556, 76.667 5.556, 86.667 5.556, 94.444 12.500, 94.444 19.444, 94.444 26.389, 94.444 33.333, 94.444 38.889, 94.444 44.444, 94.444 54.444, 94.444 55.556, 94.444 61.111, 94.444 66.667, 94.444 73.611, 94.444 80.556, 94.444 87.500, 94.444 94.444, 94.444 94.444, 84.444 94.444, 74.444 94.444, 66.667 94.444, 56.667 94.444, 55.556 87.500, 50.000 80.556, 55.556 80.556, 65.556 80.556, 66.667 73.611, 66.667 66.667, 66.667 66.667, 56.667 66.667, 46.667 66.667, 36.667 66.667, 33.333 76.667, 33.333 77.778, 33.333 77.778, 23.333 77.778, 16.667 77.778, 6.667 77.778, 5.556 67.778, 5.556 66.667, 5.556 66.667, 15.556 66.667, 16.667 61.111, 16.667 55.556, 16.667 "
+         id="path1"
+         style="stroke-linecap:round" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:docname="cave2_fill.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.4"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet"
+     style="fill:#000000">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes"
+       style="fill:#000000">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 64.815, 94.444 74.815, 94.444 84.815, 94.444 94.444, 94.444 94.413, 84.444 94.381, 74.445 94.356, 66.637 90.497, 57.412 86.637, 48.186 82.778, 38.961 78.919, 29.736 78.046, 27.651 69.352, 22.710 60.658, 17.769 51.964, 12.828 50.158, 11.801 41.570, 16.925 32.982, 22.048 24.394, 27.172 15.760, 32.323 12.821, 41.882 9.882, 51.440 6.943, 60.998 6.840, 61.336 6.452, 71.328 6.065, 81.321 5.677, 91.313 5.556, 94.444 15.556, 94.444 25.556, 94.444 35.185, 94.444 45.185, 94.444 50.000, 94.444 60.000, 94.444 64.815, 94.444 "
+         id="path1"
+         style="fill:#000000" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 64.815, 94.444 74.815, 94.444 79.630, 94.444 81.051, 84.546 82.472, 74.647 82.539, 74.179 74.015, 68.950 65.491, 63.722 60.896, 60.903 50.924, 61.650 41.194, 62.378 33.083, 68.228 24.972, 74.077 23.036, 75.473 28.429, 83.894 33.822, 92.316 35.185, 94.444 45.185, 94.444 50.000, 94.444 60.000, 94.444 64.815, 94.444 "
+         id="path2"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

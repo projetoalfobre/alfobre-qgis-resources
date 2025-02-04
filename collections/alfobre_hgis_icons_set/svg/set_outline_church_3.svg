@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="home-svgrepo-com.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74246212"
+     inkscape:cx="400.02041"
+     inkscape:cy="400.02041"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">home</title>
+  <g
+     id="g1"
+     transform="matrix(1.6235805,0,0,1.6235805,-14.348823,-19.816156)">
+    <path
+       id="path1291-9"
+       d="m 18.263661,14.680039 v 2.634577 H 15.4 v 0.849828 h 2.863661 v 4.724996 c -1.611201,0.209154 -2.858063,1.585225 -2.858063,3.253081 -1.1e-5,1.81207 1.470437,3.282417 3.282417,3.282417 1.81207,0 3.283312,-1.470347 3.283312,-3.282417 0,-1.667632 -1.247085,-3.043703 -2.858062,-3.253081 v -4.724996 h 2.863661 V 17.314616 H 19.113265 V 14.680039 L 18.263661,14.68 Z m 0.424354,9.018472 c 1.348975,0 2.44401,1.095035 2.44401,2.44401 0,1.348975 -1.095035,2.443786 -2.44401,2.443786 -1.348908,0 -2.443114,-1.094811 -2.443114,-2.443786 6.7e-5,-1.348975 1.094206,-2.44401 2.443114,-2.44401 z"
+       sodipodi:nodetypes="cccccccssccccccccssscs"
+       style="stroke-width:0.223933" />
+    <path
+       d="m 18.537285,24.973572 c -0.573381,0.0744 -1.017105,0.564139 -1.017105,1.15768 -6e-6,0.644872 0.523276,1.168126 1.168126,1.168126 0.644867,0 1.16844,-0.523276 1.16844,-1.168126 0,-0.593463 -0.44378,-1.083172 -1.017106,-1.15768"
+       id="path1"
+       sodipodi:nodetypes="ccssc"
+       style="stroke-width:0.0796918" />
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg3"
+   sodipodi:docname="castle2_fill.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.939697"
+     inkscape:cx="28.789348"
+     inkscape:cy="44.951788"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 44.444,77.778 v -10 -1.111 h -5.555 -2.167 -3.389 v 10 1.111 h -6.944 -6.945 v -10 -1.111 H 12.5 5.556 v 10 1.111 10 6.666 h 6.944 6.944 6.945 6.944 5.556 5.555 10 1.112 5.555 5.556 6.944 6.945 6.944 6.944 v -10 -6.666 -10 -1.111 H 87.5 80.556 v 10 1.111 h -6.945 -6.944 v -10 -1.111 H 63.278 61.111 55.556 V 77.778 H 44.444"
+         id="path1"
+         style="display:inline;stroke-linecap:round;fill:#000000"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="M 63.278,76.667 62.629,56.688 61.981,46.709 61.332,36.73 61.111,33.333 h 5.556 10 1.111 v -10 -6.666 -10 -1.111 h -10 -1.111 v 10 1.111 h -5.556 -5.555 v -10 -1.111 h -10 -1.112 v 10 1.111 h -5.555 -5.556 v -10 -1.111 h -10 -1.111 v 10 1.111 10 6.666 h 10 1.111 5.556 l -0.649,9.979 -0.648,9.979 -0.649,9.979 -0.221,13.397"
+         id="path3"
+         style="fill:#000000;stroke-linecap:round"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg7"
+   sodipodi:docname="castro_hut.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.4"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 63.673,56.401 6.31,-0.341 5.53,-0.459 4.539,-0.559 3.372,-0.638 2.077,-0.692 0.701,-0.72 0.781,-1.178 -6.963,-7.178 -6.963,-7.177 -6.963,-7.177 -6.963,-7.178 -6.963,-7.177 -0.903,-0.93 -0.764,-0.386 -0.794,-0.152 -0.794,0.152 -0.764,0.386 -6.963,7.177 -6.963,7.177 -6.963,7.178 -6.963,7.177 -6.963,7.178 -0.903,0.93 0.781,1.178 0.701,0.72 2.077,0.692 3.373,0.638 4.538,0.559 5.531,0.459 6.309,0.341 6.846,0.21 7.12,0.071 h 10e-4 l 7.119,-0.071 6.846,-0.21"
+         id="path1"
+         style="display:inline;stroke-linecap:round" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 29.432,56.06 -5.531,-0.459 0.035,10 0.036,10 0.032,9.106 0.392,1.167 0.492,1.164 1.331,1.124 1.933,1.034 2.626,0.895 3.729,0.733 4.42,0.5"
+         id="path2"
+         style="display:inline;stroke-linecap:round" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 44.482,91.699 0.075,0.005 5.443,0.113 5.443,-0.113 5.235,-0.336 4.815,-0.544 3.729,-0.733 2.626,-0.895 1.933,-1.034 1.331,-1.124 0.492,-1.164 0.392,-1.167 -0.166,-9.999 -0.166,-9.998 -0.151,-9.109 -5.53,0.459"
+         id="path3"
+         style="display:inline;stroke-linecap:round" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 38.927,91.347 5.555,0.357 v -0.005 -10 -8.727 h -5.555 v 10 8.352 0.023"
+         id="path4"
+         style="display:inline;stroke-linecap:round" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 55.682,91.683 5.555,-0.411 v -10 -8.323 h -5.555 v 10 8.734"
+         id="path5"
+         style="display:inline;stroke-linecap:round" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 36.237,67.271 v 5.657 h 10 10 7.778 v -5.657 h -10 -10 -7.778"
+         id="path6"
+         style="display:inline;stroke-linecap:round" />
+    </g>
+  </g>
+</svg>

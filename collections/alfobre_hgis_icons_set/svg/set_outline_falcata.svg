@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:docname="falcata.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.37"
+     inkscape:cx="50"
+     inkscape:cy="49.932157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 23.298, 55.595 20.519, 59.110 24.524, 65.205 27.897, 67.160 30.839, 69.843 33.732, 64.829 36.882, 59.198 42.573, 53.024 50.964, 47.585 51.248, 47.401 60.492, 43.588 61.407, 43.210 69.829, 38.455 76.754, 33.275 82.537, 26.734 87.193, 20.632 89.600, 15.216 91.888, 11.450 95.341, 6.296 86.433, 10.839 77.524, 15.381 72.156, 18.118 64.842, 21.994 57.528, 25.871 49.022, 31.245 40.515, 36.620 33.262, 43.504 31.635, 45.048 26.077, 52.079 23.298, 55.595 "
+         id="path1" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 24.524, 65.205 20.519, 59.110 19.239, 60.881 17.509, 63.551 15.695, 66.129 14.296, 69.160 13.060, 72.370 12.411, 76.931 13.842, 80.733 16.919, 84.800 20.121, 87.203 25.025, 88.711 27.661, 87.305 29.201, 85.428 30.095, 81.663 28.772, 80.385 26.099, 82.039 23.543, 84.614 19.064, 81.948 15.787, 75.658 17.544, 73.266 19.562, 70.519 21.246, 68.226 23.017, 65.815 24.524, 65.205 "
+         id="path2" />
+    </g>
+  </g>
+</svg>

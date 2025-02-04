@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg3"
+   sodipodi:docname="mill_fill.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.4"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:groupmode="lineset"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 44.444, 27.778 54.444, 27.778 55.556, 27.778 56.364, 32.629 57.711, 40.710 58.879, 47.716 60.523, 57.580 60.764, 59.030 62.408, 68.894 64.052, 78.758 65.696, 88.621 66.667, 94.444 56.667, 94.444 46.667, 94.444 36.667, 94.444 33.333, 94.444 34.977, 84.581 36.621, 74.717 38.265, 64.853 39.205, 59.216 40.849, 49.353 41.090, 47.903 42.311, 40.577 43.658, 32.496 44.444, 27.778 "
+         id="path1"
+         style="stroke-linecap:round;fill:#000000" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 19.281, 69.712 23.995, 74.426 31.066, 67.355 38.137, 60.284 39.205, 59.216 46.276, 52.145 50.078, 48.343 54.792, 43.629 57.711, 40.710 64.782, 33.639 71.853, 26.568 78.924, 19.497 80.563, 17.858 75.849, 13.144 68.778, 20.215 61.707, 27.286 56.364, 32.629 50.078, 38.915 45.364, 43.629 41.090, 47.903 34.019, 54.974 26.948, 62.045 19.877, 69.116 19.281, 69.712 "
+         id="path2"
+         style="stroke-linecap:round;fill:#ffffff" />
+      <path
+         fill="none"
+         stroke-width="3.0"
+         stroke-linecap="butt"
+         stroke-opacity="1.0"
+         stroke="rgb(0, 0, 0)"
+         stroke-linejoin="round"
+         d=" M 24.151, 12.988 19.437, 17.702 26.508, 24.773 33.579, 31.844 40.650, 38.915 42.311, 40.577 45.364, 43.629 50.078, 48.343 57.149, 55.414 60.764, 59.030 67.835, 66.101 74.906, 73.172 76.005, 74.271 80.719, 69.557 73.648, 62.485 66.577, 55.414 59.506, 48.343 58.879, 47.716 54.792, 43.629 50.078, 38.915 43.658, 32.496 36.587, 25.424 29.516, 18.353 24.151, 12.988 "
+         id="path3"
+         style="stroke-linecap:round;fill:#ffffff" />
+    </g>
+  </g>
+</svg>
